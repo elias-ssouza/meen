@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Meen</string>
+
+    <!--Main-->
+    <string name="title_popular_category">Categorias Populares</string>
+    <string name="title_recent_products">Produtos Recentes</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+
+
+    <!--Menu Drawer-->
+    <string name="menu_drawer_home">Home</string>
+    <string name="menu_drawer_account">Minha Conta</string>
+    <string name="menu_drawer_category">Categorias</string>
+    <string name="menu_drawer_orders">Minhas Compras</string>
+    <string name="menu_drawer_cart">Meu Carrinho</string>
+    <string name="menu_drawer_logout">Sair</string>
+    <string name="toogle_open">Open</string>
+    <string name="toogle_close">Close</string>
+
+
+    <!--Product Detail-->
+    <string name="product_detail_color">Cor</string>
+    <string name="product_detail_size">Tamanho</string>
+    <string name="product_detail_button_buy">Comprar</string>
+    <string name="product_detail_description">Descrição</string>
+
+    <!--User Register-->
+    <string name="user_register_cadastrar">Cadastrar</string>
+    <string name="user_register_senha">Senha</string>
+    <string name="user_register_email">Email</string>
+    <string name="user_register_nome">Nome</string>
+    <string name="user_profile_surname">Sobrenome</string>
+    <string name="user_register_title">Cadastro de Usuário</string>
+    <string name="forgot_password">Esqueceu a senha</string>
+    <string name="user_login_entrar">Entrar</string>
+    <string name="user_login_nao_possui_cadastro">Não possui cadastro?</string>
+    <string name="user_login_cadastre_se_aqui">Cadastre-se aqui</string>
+    <string name="user_login_title">Login</string>
+    <string name="user_profile_title">Perfil</string>
+    <string name="user_profile_address">Endereço</string>
+    <string name="user_profile_address_hint">Rua/Avenida</string>
+    <string name="user_profile_number">Número</string>
+    <string name="user_profile_address2">Complemento (Apartamento/Bloco)</string>
+    <string name="user_profile_city">Cidade</string>
+    <string name="user_profile_cep">CEP</string>
+    <string name="user_profile_update">Atualizar</string>
+    <string name="product_category_title">Categorias</string>
+    <string-array name="states">
+        <item>Acre (AC)</item>
+        <item>Alagoas (AL)</item>
+        <item>Amapá (AP)</item>
+        <item>Amazonas (AM)</item>
+        <item>Bahia (BA)</item>
+        <item>Ceará (CE)</item>
+        <item>Distrito Federal (DF)</item>
+        <item>Espírito Santo (ES)</item>
+        <item>Goiás (GO)</item>
+        <item>Maranhão (MA)</item>
+        <item>Mato Grosso (MT)</item>
+        <item>Mato Grosso do Sul (MS)</item>
+        <item>Minas Gerais (MG)</item>
+        <item>Pará (PA)</item>
+        <item>Paraíba (PB)</item>
+        <item>Paraná (PR)</item>
+        <item>Pernambuco (PE)</item>
+        <item>Piauí (PI)</item>
+        <item>Rio de Janeiro (RJ)</item>
+        <item>Rio Grande do Norte (RN)</item>
+        <item>Rio Grande do Sul (RS)</item>
+        <item>Rondônia (RO)</item>
+        <item>Roraima (RR)</item>
+        <item>Santa Catarina (SC)</item>
+        <item>São Paulo (SP)</item>
+        <item>Sergipe (SE)</item>
+        <item>Tocantins (TO)</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_title">Produtos</string>
+    <string name="settings_title">Configurações</string>
+    <string name="menu_drawer_settings">Configurações</string>
+    <string name="cart_title">Meu Carrinho</string>
+
+</resources>
